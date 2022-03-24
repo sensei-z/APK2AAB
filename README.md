@@ -6,7 +6,7 @@ Exe file found in APK2AAB\Windows-exe\APK2AAb.exe <br />
 
 Download .Net 6.0 runtime only  https://dotnet.microsoft.com/en-us/download/dotnet/6.0  <br />
 
-Selected apk & out put aab path should contain any space in directory <br />
+Selected apk & out put aab path should not contain any space in directory <br />
 Min-sdk , target sdk , version name & code  should be same as your apk have in AndroidManifest.xml<br />
 You need to sign the generated aab file with your keystore in order to publish the application in play store <br />
 
