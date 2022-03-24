@@ -4,7 +4,7 @@
 
 Exe file found in APK2AAB\Windows-exe\APK2AAb.exe <br />
 
-Download .Net 6.0 runtime only  https://dotnet.microsoft.com/en-us/download/dotnet/6.0  <br />
+Download .Net 6.0 runtime o https://dotnet.microsoft.com/en-us/download/dotnet/6.0 & Java 8 & add to system variable <br />
 
 Selected apk & out put aab path should not contain any space in directory <br />
 Min-sdk , target sdk , version name & code  should be same as your apk have in AndroidManifest.xml<br />
